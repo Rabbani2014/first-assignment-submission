@@ -15,6 +15,7 @@ body {
 
 .preview-container {
   display: flex;
+  justify-content: center;
   max-width: 1000px;
   width: 100%;
   align-items: center;
